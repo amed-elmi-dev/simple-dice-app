@@ -89,6 +89,3 @@ The app includes dice face images declared in `pubspec.yaml` under `assets:`:
 - Feel free to open issues or submit PRs to add features (e.g., unit tests, accessibility improvements, state management).
 - No license file is included in the repository — add one if you plan to publish.
 
----
-
-If you want, I can also add a basic unit/widget test for the `DiceRoller` (e.g., ensure dice image changes after a tap). 💡
